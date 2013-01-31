@@ -96,6 +96,14 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
   </properties>
 
+  <repositories>
+    <repository>
+      <id>netbeans</id>
+      <name>NetBeans</name>
+      <url>http://bits.netbeans.org/maven2/</url>
+    </repository>
+  </repositories>
+
   <build>
     <defaultGoal>install</defaultGoal>
     <plugins>
