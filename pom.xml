@@ -83,6 +83,9 @@
 
     <piraso.client.base.version>1.0-SNAPSHOT</piraso.client.base.version>
     <piraso.client.api.version>1.0-SNAPSHOT</piraso.client.api.version>
+    <piraso.client.sql.version>1.1-SNAPSHOT</piraso.client.sql.version>
+    <piraso.client.log4j.version>1.1-SNAPSHOT</piraso.client.log4j.version>
+    <piraso.client.spring.version>1.1-SNAPSHOT</piraso.client.spring.version>
     <piraso.version>1.1-SNAPSHOT</piraso.version>
 
     <aspectj.version>1.6.9</aspectj.version>
